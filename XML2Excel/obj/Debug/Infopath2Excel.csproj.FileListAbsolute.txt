@@ -1,7 +1,0 @@
-c:\users\user\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\bin\Debug\Infopath2Excel.exe.config
-c:\users\user\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\obj\Debug\Infopath2Excel.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\bin\Debug\Infopath2Excel.exe
-c:\users\user\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\bin\Debug\Infopath2Excel.pdb
-c:\users\user\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\bin\Debug\DocumentFormat.OpenXml.dll
-c:\users\user\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\obj\Debug\Infopath2Excel.exe
-c:\users\user\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\obj\Debug\Infopath2Excel.pdb

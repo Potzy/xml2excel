@@ -1,0 +1,14 @@
+C:\Users\User\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\bin\Debug\Infopath2Excel.exe.config
+C:\Users\User\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\obj\Debug\Infopath2Excel.exe
+C:\Users\User\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\obj\Debug\Infopath2Excel.pdb
+C:\Users\User\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\bin\Debug\Infopath2Excel.exe
+C:\Users\User\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\bin\Debug\Infopath2Excel.pdb
+C:\Users\User\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\documents\visual studio 2012\Projects\Infopath2Excel\Infopath2Excel\obj\Debug\XML2Excel.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\XML2Excel\XML2Excel\bin\Debug\Infopath2Excel.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\XML2Excel\XML2Excel\obj\Debug\Infopath2Excel.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\XML2Excel\XML2Excel\obj\Debug\Infopath2Excel.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\XML2Excel\XML2Excel\bin\Debug\Infopath2Excel.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\XML2Excel\XML2Excel\bin\Debug\Infopath2Excel.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\XML2Excel\XML2Excel\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\XML2Excel\XML2Excel\obj\Debug\XML2Excel.csprojResolveAssemblyReference.cache

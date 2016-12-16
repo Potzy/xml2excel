@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML2Excel", "XML2Excel\XML2Excel.csproj", "{078A026D-897A-4A26-BBA6-621C7BB355EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{078A026D-897A-4A26-BBA6-621C7BB355EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078A026D-897A-4A26-BBA6-621C7BB355EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078A026D-897A-4A26-BBA6-621C7BB355EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078A026D-897A-4A26-BBA6-621C7BB355EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
